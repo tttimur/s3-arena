@@ -41,4 +41,4 @@ To setup this server you will need
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/tttimur/s3-arena/blob/master/LICENSE.md) for details.
+MIT, see [LICENSE.md](http://github.com/tttimur/s3-arena/blob/master/license) for details.
