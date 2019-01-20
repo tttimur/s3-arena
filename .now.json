@@ -1,0 +1,11 @@
+{
+  "env": {
+    "NODE_ENV": "production",
+    "AWS_ACCESS_KEY_ID": "",
+    "AWS_SECRET_ACCESS_KEY": "",
+    "AWS_REGION": "",
+    "AWS_BUCKET": "",
+    "ARENA_CHANNEL": "",
+    "ARENA_ACCESS_TOKEN": ""
+  }
+}

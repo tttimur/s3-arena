@@ -1,0 +1,26 @@
+{
+  "name": "s3-upload",
+  "version": "1.0.0",
+  "description": "Server to upload image to S3 bucket then to an Are.na block",
+  "main": "index.js",
+  "scripts": {
+    "start": "micro",
+    "dev": "nodemon ./dev.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.373.0",
+    "dotenv": "^6.2.0",
+    "micro": "^9.3.3",
+    "micro-redirect": "^1.0.0",
+    "multer": "^1.4.1",
+    "now-env": "^3.1.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "internal-ip": "^3.0.1",
+    "nodemon": "^1.18.9"
+  }
+}
