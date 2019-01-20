@@ -4,7 +4,7 @@
 
 Server to upload an image to an S3 bucket then source the S3 url to create an Are.na block.
 
-## Prerequisits
+## Prerequisites
 
 To setup this server you will need
 
