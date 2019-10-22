@@ -18,7 +18,7 @@ To setup this server you will need
 ## Server Installation
 
 0. `npm install` 
-1. Rename the file `.now.sh` to `now.sh` and populate the env variables with appropriate info
+1. Rename the file `.now.json` to `now.json` and populate the env variables with appropriate info
 2. Deploy 2 cloud
 
 ## Shortcut Flow
